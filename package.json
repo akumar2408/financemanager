@@ -1,0 +1,11 @@
+{
+    "name": "financeapp",
+    "version": "1.0.0",
+    "main": "App.js",
+    "dependencies": {
+      "axios": "^0.21.1",
+      "react": "17.0.2",
+      "react-native": "0.65.1"
+    }
+  }
+  
